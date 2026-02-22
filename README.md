@@ -1,4 +1,102 @@
-# 💸 App de Organização de Finanças Pessoais com Vibe Coding
+# 💸 App de Organização de Finanças Pessoais do Wellington Pereira com Vibe Coding
+
+PRD refinado no copilot web:
+
+...markdown
+# Storyboard Textual - MVP App de Finanças
+
+## Tela 1: Chat Financeiro
+- Função principal: registrar gastos e interagir com o "Agente Financeiro".
+- Elementos:
+  - Caixa de entrada de texto com suporte a voz.
+  - Mensagens do usuário e respostas do agente em formato de balões simples.
+  - Botão de acessibilidade para aumentar fonte.
+- Design Universal:
+  - Linguagem clara e sem jargões.
+  - Ícones de microfone e teclado bem visíveis.
+  - Compatibilidade com leitores de tela.
+
+## Tela 2: Metas Financeiras
+- Função principal: definir e acompanhar objetivos (ex.: poupar R$200/mês).
+- Elementos:
+  - Campo para criar nova meta com instruções passo a passo.
+  - Barra de progresso visual simples.
+  - Opção de receber lembretes automáticos.
+- Design Universal:
+  - Uso de cores contrastantes para indicar progresso.
+  - Explicações em texto simples junto ao gráfico.
+  - Possibilidade de ouvir resumo em áudio.
+
+## Tela 3: Relatórios Simples
+- Função principal: visualizar gastos e economia.
+- Elementos:
+  - Gráfico de pizza com categorias de gastos.
+  - Lista textual com valores por categoria.
+  - Botão para exportar resumo em texto.
+- Design Universal:
+  - Alternativa em texto para gráficos.
+  - Cores bem diferenciadas para cada categoria.
+  - Navegação simples (um clique para voltar ao chat).
+
+## Tela 4: Configurações
+- Função principal: personalizar experiência.
+- Elementos:
+  - Ajuste de tamanho da fonte.
+  - Ativar/desativar suporte por voz.
+  - Idioma e preferências culturais.
+- Design Universal:
+  - Opções claras e acessíveis.
+  - Explicações curtas ao lado de cada configuração.
+  - Flexibilidade para diferentes perfis de usuários.
+...
+Interações com Lovable:
+>Crie um App de Finanças pessoais com base no seguinte PRD (Product Requirements Document): # Storyboard Textual - MVP App de Finanças (PRD)
+>Teste todas as telas navegando pelo menu inferior, envie mensagens no chat e crie uma meta para verificar que tudo funciona
+
+Resultado final no Lovable: https://wellfinancasapp.lovable.app
+
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/93aac2c4-b8e8-4677-ad74-6eccf29165fa" />
+
+
+# Funcionalidades do App de Finanças Pessoais
+
+## 1. Chat Financeiro
+- Registro de gastos em linguagem natural (texto ou voz).
+- Interação com o “Agente Financeiro” para receber dicas de economia.
+- Experiência conversacional que substitui formulários complexos.
+
+## 2. Classificação Automática de Transações
+- Gastos categorizados automaticamente (alimentação, transporte, moradia, lazer, saúde).
+- Uso de cores e ícones claros para facilitar a visualização.
+- Possibilidade de correção manual caso o usuário queira ajustar.
+
+## 3. Metas Financeiras
+- Definição de objetivos (ex.: poupar um valor mensal).
+- Acompanhamento por meio de barras de progresso simples.
+- Lembretes e recomendações personalizadas para manter o usuário motivado.
+
+## 4. Relatórios Simples e Visuais
+- Dashboard com resumo do mês (ex.: total gasto).
+- Gráficos de pizza para mostrar gastos por categoria.
+- Alternativa em texto para acessibilidade (“Ocultar/mostrar detalhes em texto”).
+- Exportação de relatórios em formato simplificado.
+
+## 5. Configurações e Personalização
+- Ajuste de tamanho da fonte e contraste de cores.
+- Ativar/desativar suporte por voz.
+- Idioma e preferências culturais.
+- Pensado com **Design Universal**, garantindo acessibilidade e boa experiência para diferentes perfis de usuários.
+
+##Reflexão
+
+ ##O que funcionou bem?  
+ O funcionamento do PRD previamente feito no Copilot ajudou muito, pois os créditos do Lovable acabaram rapidamente.
+ 
+ ##O que não funcionou como o esperado?  
+Esperava interagir mais vezes com Lovable, mas as interações feitas foram de grande valia para aprender mais sobre Vibe Coding.
+ 
+ ##O que aprendeu sobre conversar com IAs?
+Aprendi que é basicamente igual a conversar com uma pessoa, quanto mais detalhes e clareza você dá melhor para a interação e entrega do projeto.
 
 Aprenda a **criar soluções com IA** de forma criativa, guiando ferramentas como o **Copilot** e o **Lovable** com uma comunicação simples e natural. O foco é desenvolver o conceito de um **App de Organização de Finanças Pessoais**, mas, acima de tudo, aprender o **jeito Vibe de programar com IA**.
 
